@@ -30,7 +30,6 @@ n - network<br>
   <li>QuickNode</li>
   <li>infura</li>
   <li>mycrypto</li>
-  <li>myetherwallet</li>
   <li>chainstack</li>
   <li><b>Testnet</b></li>
   <li>sepolia_infura</li>
